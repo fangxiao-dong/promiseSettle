@@ -1,0 +1,13 @@
+{
+  "name": "promisesettle",
+  "version": "1.0.0",
+  "description": "Promise Settle",
+  "scripts": {
+    "test": "ava -v promisesettle.test.js"
+  },
+  "author": "Fisher Dong",
+  "devDependencies": {
+    "ava": "^1.2.1",
+    "eslint": "^5.14.1"
+  }
+}
